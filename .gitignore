@@ -1,0 +1,4 @@
+venv*
+generatecube.egg-info
+cube/__pycache__
+.idea
