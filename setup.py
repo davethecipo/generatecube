@@ -15,5 +15,6 @@ setup(name='generatecube',
                   'createcubegen=cube.cube:main']
       },
       requires=['pystache'],
+      include_package_data=True
      )
 
